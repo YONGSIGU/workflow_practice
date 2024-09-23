@@ -7,3 +7,9 @@ In the rapidly evolving field of software engineering, the integration of artifi
 What makes this article particularly fascinating is its exploration of how AI tools are not only automating repetitive coding tasks but also enhancing decision-making processes and improving overall code quality. The article delves into examples of AI-driven tools that assist in code generation, bug detection, and even project management. This is crucial as it sheds light on how AI can handle more complex, creative tasks that were previously thought to be beyond the reach of machines.
 
 The discussion on how AI is used for predictive coding and error detection provides valuable insights into the future of development practices. The potential for AI to significantly reduce the time and effort required for software development while increasing accuracy and efficiency is an exciting prospect. This article is a must-read for anyone interested in the future of software engineering and the integration of advanced technologies into everyday development workflows.
+
+## Comments
+
+### Zihan Zheng
+
+That's an interesting topic. Recently OpenAI has published their [OpenAI o1](https://openai.com/index/introducing-openai-o1-preview/) model. Which have the ability to do reasoning. It was rated 1800 on [Codeforces](https://codeforces.com/). Although the rating is not high at all, it show the potencial of reshaping the software engineering. I can already imagine a future where SDEs no longer need to write code for simple tasks like basic CRUD and APIs.
